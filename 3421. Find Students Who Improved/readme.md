@@ -2,7 +2,7 @@
 # LeetCode Solution: Find Students Who Improved
 
 ## Problem  
-📋 **1241. Find Students Who Improved**  
+📋 **3421. Find Students Who Improved**  
 Check out the full problem on LeetCode:  
 👉 https://leetcode.com/problems/find-students-who-improved/description/
 
