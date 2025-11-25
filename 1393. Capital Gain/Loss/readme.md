@@ -1,7 +1,7 @@
 # LeetCode Solution: Capital Gain/Loss
 
 ## Problem  
-📋 **1148. Capital Gain/Loss**  
+📋 **1393. Capital Gain/Loss**  
 Check out the full problem on LeetCode:  
 👉 https://leetcode.com/problems/capital-gainloss/description/
 
